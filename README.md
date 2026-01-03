@@ -4,7 +4,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![Vite](https://img.shields.io/badge/Vite-Rapid%20Build-purple)
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 > A full-stack health monitoring dashboard that visualizes wearable device data, simulates real-time vitals, and generates clinical PDF reports for doctors.
 
