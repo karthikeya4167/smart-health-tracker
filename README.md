@@ -9,8 +9,7 @@
 
 ## 📸 Screenshot
 
-vitalsensehealthdashboardscreenshot.png
-
+![VitalSense Dashboard](vitalsensehealthdashboardscreenshot.png)
 ## 🚀 Features
 
 * **📊 Data Visualization:** Interactive line charts displaying correlation between Steps and Heart Rate using **Recharts**.
