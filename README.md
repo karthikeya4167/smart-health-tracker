@@ -7,10 +7,9 @@
 
 > A full-stack health monitoring dashboard that visualizes wearable device data, simulates real-time vitals, and generates clinical PDF reports for doctors.
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Dashboard Screenshot](screenshot.png)
-*(Note: Upload a screenshot of your dashboard to your repo and name it `screenshot.png` to see it here)*
+vitalsensehealthdashboardscreenshot.png
 
 ## 🚀 Features
 
